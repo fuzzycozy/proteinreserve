@@ -774,11 +774,11 @@ img {
     bottom: 6%;
     transition: right 0.9s ease 0.3s;
 }
-.swiper-slide-active .j5_img04>img {
-    left:10%;
+.swiper-slide-active .j5_img05>img {
+    right:14%;
     animation: obj_cow_02 2.2s ease infinite 0.5s;
 }
-@keyframes obj_cow_01{
+@keyframes obj_cow_02{
     0%{transform: rotate(0deg);}
     50%{transform: rotate(3deg);}
     100%{transform: rotate(0deg);}
